@@ -1,4 +1,4 @@
-name: Windows-RDP #administrator @aiko2k6 >>>@zhuzhuwei666
+name: Windows-RDP administrator @aiko2k6 >>>@zhuzhuwei666
 
 on: workflow_dispatch
 
